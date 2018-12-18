@@ -1,4 +1,4 @@
-# htwappy
+# htwapply
 This is a form for credit analysis with signature.js, fileupload, insertion/deletion on db,etc.
 The functionality has 2 main modalities: credit accounts and trade cards.
 When finished the form submission, it heads to upload files.
